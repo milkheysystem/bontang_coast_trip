@@ -295,6 +295,7 @@ const paket = {
             "Transportasi Kapal PP",
             "Tour Guide Wisata",
             "Waterspot Banana Boat",
+            "1 Set Alat Snorkling",
             "Tempat Istirahat(Gazebo)",
             "Air Mineral",
             "Makan Siang",
