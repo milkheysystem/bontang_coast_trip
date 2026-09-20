@@ -323,7 +323,7 @@ const paket = {
     paket3: {
         nama: "1 Destinasi",
         jenis: "Open Trip",
-        harga: "Rp 275.000",
+        harga: "Rp 150.000",
 
         destinasi: [
             "Pulau Beras Basah",
